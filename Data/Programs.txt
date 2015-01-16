@@ -1,0 +1,2 @@
+﻿7z920.msi,/quiet
+adberdr11000_ru.exe,/sPB
